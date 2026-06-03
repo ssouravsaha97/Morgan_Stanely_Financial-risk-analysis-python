@@ -32,7 +32,7 @@ Morgan Stanley Financial Transaction Data
 ## Files
 - Financial_Risk_project.ipynb
 - Financial_Risk_project.html
-- project.pdf
+- FInancial_Risk_Analysis_with_python_Report
 - morgan_stanely.csv
 
 ## Author
